@@ -96,7 +96,7 @@ Config Merger — это Windows-приложение для сравнения,
 
 ### Требования для разработки
 - Visual Studio 2019 или выше
-- .NET Framework 4.5+ SDK
+- .NET Framework 4.7.2+ SDK
 
 ### Инструкции
 ```bash
