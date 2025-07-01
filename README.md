@@ -100,7 +100,7 @@ Config Merger — это Windows-приложение для сравнения,
 
 ### Инструкции
 ```bash
-git clone https://github.com/yourusername/config-merger.git
+git clone https://github.com/ANHELL-dev/config-merger.git
 cd config-merger
 ```
 
