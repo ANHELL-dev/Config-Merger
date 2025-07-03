@@ -221,5 +221,5 @@ MIT License
 
 <p align="center">
   <strong>Сделано с ❤️ для сообщества разработчиков</strong><br>
-  <sub>Config Merger v2.0 - Professional Configuration Management Tool</sub>
+  <sub>Config Merger v2.0 - Configuration Management Tool</sub>
 </p>
